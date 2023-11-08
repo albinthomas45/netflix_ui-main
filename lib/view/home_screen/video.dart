@@ -9,7 +9,7 @@ class video extends StatefulWidget {
 }
 
 YoutubePlayerController _controller = YoutubePlayerController(
-  initialVideoId: '',
+  initialVideoId: 'https://youtu.be/3wgG_V2HOzI?si=M97opIyl9PkNvS2e',
   flags: YoutubePlayerFlags(
     autoPlay: true,
     mute: false,

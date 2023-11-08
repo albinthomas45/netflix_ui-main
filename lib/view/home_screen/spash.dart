@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:splash/view/home_screen/homeimages.dart';
-import 'package:splash/view/home_screen/menu.dart';
+// import 'package:splash/view/home_screen/homeimages.dart';
+// import 'package:splash/view/home_screen/menu.dart';
 import 'package:splash/view/home_screen/profile.dart';
 
 
